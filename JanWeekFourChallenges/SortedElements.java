@@ -1,9 +1,9 @@
 package JanWeekFourChallenges;
 
 /**
- * ParenthesesGrouping
+ * Sorted Elements
  */
-public class ParenthesesGrouping {
+public class SortedElements {
 
     public static void main(String[] args) {
         System.out.println("hi");
