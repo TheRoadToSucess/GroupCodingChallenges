@@ -1,7 +1,7 @@
 # Give a list of numbers nums, 
 # return the number of elements that 
 # are in the correct indices, if the list were to be sorted.
-
+# something like this 
 
 nums = [1, 7, 3, 4, 10]
 sorted_list = sorted(nums)
