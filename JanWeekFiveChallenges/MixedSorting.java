@@ -7,9 +7,9 @@ import java.util.*;
 
 public class MixedSorting {
     public static void main(String[] args) {
+        int[] numbers = {8, 13, 11, 90, -5, 4};
 
-        int[] nums = new int[8, 13, 11, 90, -5, 4];
-        solve(nums);
+        solve();
 
     }
 
@@ -30,6 +30,7 @@ public class MixedSorting {
 
         */
 
+        int[] nums = {8, 13, 11, 90, -5, 4};
         int Ec = 0, Oc = 0;
         for(int i = 0; i < nums.length; i++){
             if(nums[i] % 2 == 0){
